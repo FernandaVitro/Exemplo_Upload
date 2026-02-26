@@ -1,0 +1,8 @@
+#Coisas que nao sobe pro git
+
+
+#dependecias
+node_modules/
+
+#variaveis
+.env
